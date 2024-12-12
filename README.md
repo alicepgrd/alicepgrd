@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Alice!
 
-I'm a **full stack developper** passionate about digital transformation and web development, I specialize in bridging the gap between strategy and technology. My expertise lies in creating impactful digital projects and crafting engaging user experiences.
+I'm a **full stack web developer** passionate about digital transformation and web development, I specialize in bridging the gap between strategy and technology. My expertise lies in creating impactful digital projects and crafting engaging user experiences.
 Here's what I love working on:
 
 - 🌐 Web Development
