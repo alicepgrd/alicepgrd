@@ -41,7 +41,8 @@ Here's what I love working on:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ##⚡ **My latest project** 
-[![SuperSelf](https://svg.bookmark.style/api?url=https://github.com/CyrusWeir/superSelf&mode=light&style=horizontal)](https://github.com/CyrusWeir/superSelf)
+[![SuperSelf](https://img.shields.io/badge/GitHub-SuperSelf-blue?style=for-the-badge&logo=github)](https://github.com/CyrusWeir/superSelf)
+
 
 <!--
 **alicepgrd/alicepgrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
